@@ -1,0 +1,10 @@
+C:\Users\Eyues\source\repos\Trivia_Contest\Trivia_Contest\bin\Debug\Trivia_Contest.exe.config
+C:\Users\Eyues\source\repos\Trivia_Contest\Trivia_Contest\bin\Debug\Trivia_Contest.exe
+C:\Users\Eyues\source\repos\Trivia_Contest\Trivia_Contest\bin\Debug\Trivia_Contest.pdb
+C:\Users\Eyues\source\repos\Trivia_Contest\Trivia_Contest\obj\Debug\Trivia_Contest.csproj.AssemblyReference.cache
+C:\Users\Eyues\source\repos\Trivia_Contest\Trivia_Contest\obj\Debug\Trivia_Contest.Form1.resources
+C:\Users\Eyues\source\repos\Trivia_Contest\Trivia_Contest\obj\Debug\Trivia_Contest.Properties.Resources.resources
+C:\Users\Eyues\source\repos\Trivia_Contest\Trivia_Contest\obj\Debug\Trivia_Contest.csproj.GenerateResource.cache
+C:\Users\Eyues\source\repos\Trivia_Contest\Trivia_Contest\obj\Debug\Trivia_Contest.csproj.CoreCompileInputs.cache
+C:\Users\Eyues\source\repos\Trivia_Contest\Trivia_Contest\obj\Debug\Trivia_Contest.exe
+C:\Users\Eyues\source\repos\Trivia_Contest\Trivia_Contest\obj\Debug\Trivia_Contest.pdb
